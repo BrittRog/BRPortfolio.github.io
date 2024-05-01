@@ -1,15 +1,12 @@
 body{
     background-color: black;
 }
-.navbar-dark .navbar-nav .nav-link {
 
-}
 .navbar-nav .nav-item .nav-link:hover {
     color: white;
 }
 .navbar{
     padding: 15px;
-
 }
 
 .navbar-brand{
