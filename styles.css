@@ -5,10 +5,22 @@ body{
 .navbar-nav .nav-item .nav-link:hover {
     color: white;
 }
+
+.nav-contact:hover {
+    color: lightgray;
+}
 .navbar{
     padding: 15px;
 }
 
 .navbar-brand{
     margin-left: 65px;
+}
+
+li{
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
